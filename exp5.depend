@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1513540768 source:e:\exp5\main.cpp
+	<iostream>
+	"Course.h"
+
+1513564813 e:\exp5\course.h
+	"Node.h"
+	"String.h"
+	<stdlib.h>
+	<fstream>
+	<stdio.h>
+
+1513564813 e:\exp5\node.h
+	<iostream>
+	<vector>
+	"Linklist.h"
+
+1509935344 e:\exp5\linklist.h
+	<iostream>
+	<string>
+	"String.h"
+
+1509334903 e:\exp5\string.h
+	<cstdio>
+	<iostream>
+	<string.h>
+
